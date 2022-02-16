@@ -4,6 +4,4 @@
 #### Dataset used:
 #### The dataset is called “20 Newsgroups” and it's a collection of 18,000 newsgroup documents from 20 different newsgroups. sklearn provides a method to download and load the dataset.
 #### Each message in the bundled file begins with these four headers:
-#### Newsgroup,Document_id,From,Subject. Duplicate messages have been
-#### removed and the original messages only contain "From" and "Subject" headers.
-#### An example of the data is shown below.
+#### Newsgroup,Document_id,From,Subject. Duplicate messages have been removed and the original messages only contain "From" and "Subject" headers.
